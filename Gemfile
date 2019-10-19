@@ -36,7 +36,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'devise'
 
 # bootstrap-sass gem for bootstrap
-gem 'bootstrap-sass', '~> 3.3.6'
+gem 'bootstrap-sass', '~> 3.4.1'
 
 # gem for like or vote
 gem 'acts_as_votable', '~> 0.10.0'
